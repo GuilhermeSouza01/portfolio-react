@@ -7,12 +7,12 @@ import Github from "../../assets/github.png";
 
 const Skills = () => {
   return (
-    <div name="skills" className="bg-[#15171e] text-gray-300">
+    <div name="skills" className="bg-[#15171e] text-gray-300 w-full h-screen">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl  font-bold inline border-b-4 border-purple-600">
-            Experience
+            Skills
           </p>
           <p className="py-4">
             Essas são as tecnologias que tenho conhecimento.
